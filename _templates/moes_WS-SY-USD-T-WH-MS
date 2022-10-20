@@ -14,5 +14,5 @@ standard: us
 ---
 
 ```console
-backlog ledtable 0 ; dimmerrange 10,1000
+backlog SetOption97 1 ; tuyaMCU 11,1 ; TuyaMCU 21,2 ; ledtable 0 ; dimmerrange 10,1000
 ```
